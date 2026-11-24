@@ -1,7 +1,7 @@
 # VIDEO STYLE MASTER — SSM NEO / LUMIÈRE (Real-estate presenter walkthrough)
 
 > Tài liệu quy chuẩn tham chiếu cho MỌI yêu cầu sản xuất video trong dự án này.
-> Nguồn học: video mẫu `9785fe0a-v10025g50000dc2ju5nog65vuopc86vg.mp4` (TikTok @ssm_luxury).
+> Nguồn học: (A) video mẫu `9785fe0a-v10025g50000dc2ju5nog65vuopc86vg.mp4` (16:9); (B) video mẫu `77b82538-v14025g50000dc027ffog65ggo2249ng.mp4` (9:16, xem Phụ lục B). Cả hai từ TikTok @ssm_luxury.
 > Phân tích dựa trên khung hình, thời điểm cắt cảnh và thông số kỹ thuật. Phần ÂM THANH/GIỌNG NÓI chưa được phiên âm — xem mục 10.
 
 ---
@@ -14,6 +14,7 @@ Với mỗi hình ảnh / video / nội dung / yêu cầu mới:
 3. Chỉ thay đổi: nội dung, bối cảnh, nhân vật, thông điệp theo yêu cầu mới.
 4. Không tự ý sáng tạo theo phong cách khác.
 5. Nếu yêu cầu mâu thuẫn với quy chuẩn → HỎI người dùng trước khi thực hiện.
+6. **Tỉ lệ khung hình: HỎI người dùng mỗi lần** (16:9 = Biến thể A, các mục 1–10; 9:16 = Biến thể B, Phụ lục B). Phần chung (màu, ánh sáng, người dẫn, nhịp "premium") áp dụng cho cả hai.
 
 ---
 
@@ -82,3 +83,26 @@ Công thức: **Presenter (hook) → B-roll tiện ích/dự án → Presenter (
 - Chưa phiên âm lời nói và chưa phân tích thể loại/nhạc nền (công cụ trong môi trường này không có sẵn). Nếu cần quy chuẩn chính xác về giọng/nhạc, hãy cung cấp lời thoại/nhạc hoặc yêu cầu bổ sung.
 - Phân tích hình ảnh dựa trên ~19 khung hình lấy mẫu mỗi 3 giây + 21 điểm cắt cảnh tự động; một số chi tiết nhỏ có thể sót.
 - Video mẫu ở 1024×576 nên chi tiết chất lượng ảnh (grain, độ nét) chỉ ước lượng.
+
+
+---
+
+## PHỤ LỤC B — BIẾN THỂ DỌC 9:16 (nội thất căn hộ / biệt thự)
+Nguồn: `77b82538-v14025g50000dc027ffog65ggo2249ng.mp4`. Chỉ khác Biến thể A ở các điểm dưới đây; mọi thứ khác giữ nguyên.
+
+**Kỹ thuật:** 576×1024 (9:16), 30 fps, ~73s, H.264/AAC 44.1 kHz, mức trung bình -14.9 dB, đỉnh 0 dB.
+
+**Cấu trúc (≈73s):** Presenter ngồi ghế da vàng mở đầu (0–~9.6s, hook) → luân phiên cảnh presenter đứng ở từng khu vực (cạnh tranh ngựa, dưới cây ô liu, phòng ngủ đỏ rượu, phòng làm việc) với B-roll cận cảnh nội thất (kệ đèn LED + đá marble, đèn chùm cầu, sofa xanh navy, cầu thang, tủ quần áo kính) → kết bằng các cảnh phòng/khu chức năng và presenter chào.
+Điểm cắt đo được (s): 9.6, 10.4, 13.2, 15.2, 16.1, 21.3, 25.8, 32.0, 32.9, 36.8, 37.7, 38.5, 39.2, 39.9, 41.9, 56.8, 63.6, 70.7. Nhịp thay đổi: cụm cắt nhanh ~1s quanh 32–42s, xen đoạn dài 15–20s (41.9–56.8s).
+
+**Camera:** gimbal dọc, push-in/trượt chậm; B-roll chi tiết cận cảnh, quét dọc (đèn chùm, kệ) tận dụng chiều cao khung; presenter vừa đi vừa chỉ tay dẫn dắt, đứng lệch tâm hoặc giữa tùy bối cảnh.
+
+**Màu/ánh sáng:** giữ tông ấm champagne–đồng–nâu gỗ; điểm nhấn xanh cây, đỏ rượu, xanh navy theo từng phòng; đèn LED/đèn chùm ấm là nguồn sáng nổi bật, ánh sáng ngày mềm qua rèm voan.
+
+**Presenter:** giống mục 6 (áo đen, quần ống rộng kem, đồng hồ thông minh, tóc đen dài); cử chỉ tay chỉ/mở, có lúc ký hiệu "V". Có cảnh ngồi và cảnh đi chân trần.
+
+**Đồ họa:** chỉ logo **SSM GROUP** góc trên phải (không có SSM NEO). Phụ đề/tiêu đề **tiếng Việt, chữ serif sáng, đặt trong không gian** (ví dụ "4 PHÒNG NGỦ"), không dùng hộp nền. Watermark TikTok do nền tảng.
+
+**Âm thanh:** giọng presenter là chính; chưa phiên âm lời thoại và chưa phân tích nhạc nền.
+
+**Giới hạn phân tích B:** dựa trên 12 khung hình lấy mẫu mỗi 4s + điểm cắt tự động (có thể sót cắt mềm); chưa nghe/phiên âm âm thanh.
